@@ -25,5 +25,6 @@ Criminals use shortened URLs to:
 
   * **Direct people to phishing websites,** sites that ask you to log in or fill in a form and then steal your password and/or personal information. Always Look Before You Log In.
   * **Initiate download of malicious software,** such as ransomware, to your device.
+Example: `https://tinyurl.com/z9cdss2t`
 
 If you are suspicious of a shortened URL, don't click it.
