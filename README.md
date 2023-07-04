@@ -1,3 +1,7 @@
+![how-many-times-8476968f65](https://github.com/bWFsd2FyZQ/shortened-url-security/assets/120448312/d526ec9e-18c1-447c-bf31-557f240612d6)
+
+
+
 # Shortened URL Security
 
 Shortened URLs, such as those from tinyurl.com, bit.ly and others  make it easy to type in a web address quickly but hard to tell where your web browser will actually take you.
@@ -24,7 +28,7 @@ There are a number of ways you can reveal the full URL behind a shortened URL:
 Criminals use shortened URLs to:
 
   * **Direct people to phishing websites,** sites that ask you to log in or fill in a form and then steal your password and/or personal information. Always Look Before You Log In.
-  * **Initiate download of malicious software,** such as ransomware, to your device.
-Example: `https://tinyurl.com/z9cdss2t`
+  * **Initiate download of malicious software,** such as ransomware, to your device.  
+  Example: `https://tinyurl.com/z9cdss2t`
 
 If you are suspicious of a shortened URL, don't click it.
