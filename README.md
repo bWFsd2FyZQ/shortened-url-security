@@ -20,9 +20,9 @@ There are a number of ways you can reveal the full URL behind a shortened URL:
     Example: `https://bit.ly/3PHKklI+`  
 
 * **Use a URL checker.** These are just a few of the sites that let you enter a short URL and then see the full URL:
-  * getlinkinfo.com
-  * unshorten.it
-  * urlxray.com
+  * redirectdetective.com
+  * redirhub.com/tool/url-expander
+  * expandurl.net
 
 ## How Criminals Use Shortened URLs
 Criminals use shortened URLs to:
